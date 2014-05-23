@@ -47,6 +47,10 @@ persist on your application database.
 Please look into the adyen gem wiki https://github.com/wvanbergen/adyen/wiki and
 Adyen Integration Manual for further info https://www.adyen.com/developers/api/
 
+## Test Credit Card Info
+
+https://support.adyen.com/index.php?/Knowledgebase/Article/View/11/0/test-card-numbers
+
 ## Contributing
 
 1. Fork it
